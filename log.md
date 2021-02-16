@@ -19,3 +19,10 @@
 **Today's Progress**: I added bootstrap to the app so that it would start to look a little nicer. It took a while for me to go through the bootstrap, wtform docs to figure out how to change the templates. Ended up getting an idea of it, but still not 100% sure why it works the way it does.
 
 **Thoughts:** I think I will have to start setting up the app in a more user friendly fashion. Having it in one file is nice, but I see how it could be better organized by breaking it up. I am not sure how I will do that, but I'll figure it out. It felt good today. A lot of struggling but I feel good. I do have to figure out why Bootstrap spacing is all weird though.
+
+
+### Day 3: February 15, 2021
+
+**Today's Progress**: I started breaking up the code I have now into smaller files. I am using Blueprint because it is convenient, but I still need to figure out how everything fits together. I can run the server, but can't display the pages because it isn't connected yet. That is next.
+
+**Thoughts:** I feel in over my head trying to break everything apart and have had to lean on the app I made with the Flask book. I dont like it, but I am trying to figure out why I am using certain packages and omitting some I feel like I dont need. So I am still learning, not just copying. I do feel like this is a good way for me to get better at all of this though.
