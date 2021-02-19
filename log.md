@@ -26,3 +26,17 @@
 **Today's Progress**: I started breaking up the code I have now into smaller files. I am using Blueprint because it is convenient, but I still need to figure out how everything fits together. I can run the server, but can't display the pages because it isn't connected yet. That is next.
 
 **Thoughts:** I feel in over my head trying to break everything apart and have had to lean on the app I made with the Flask book. I dont like it, but I am trying to figure out why I am using certain packages and omitting some I feel like I dont need. So I am still learning, not just copying. I do feel like this is a good way for me to get better at all of this though.
+
+
+### Day 4: February 16, 2021
+
+**Today's Progress**: I got the app to work and display to the screen!
+
+**Thoughts:** Amazing feeling making it work! I still need to fully understand it though.
+
+
+### Day 5: February 18, 2021
+
+**Today's Progress**: I worked on trying to make custom css work with bootstrap. No luck so far, but in the process I learned about what bootstrap is. It is a framework from which we can build nice websites using a grid.
+
+**Thoughts:** Slowly but surely starting to understand the different levels of web development and how they interact. There are still a whole lot of questions, but at least I feel like I am progressing.
